@@ -1,15 +1,19 @@
 # Olá, eu sou nogueirarosaf! 👍
 
-# Bem-vindo ao meu portifólio.
 
 
-# Sou estudante de Análise e Desenvolvimento de Sistemas
+## Sobre mim
+
+Bem-vindo ao meu portifólio.
+
+
+Sou estudante de Análise e Desenvolvimento de Sistemas
 
 ## Projetos
 
-#
-#
-#
+- **Agenda medicação**-windows
+
+
 
 ## Contato
 Email: nogueirarosaf@gmail.com   
